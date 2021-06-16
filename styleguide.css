@@ -1,0 +1,14 @@
+:root {
+  --black: #272727;
+
+  --font-size-xxl2: 24px;
+
+  --font-family-overpass: "Overpass", Helvetica;
+}
+.typographyheadlineh4-extrabold-24 {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
